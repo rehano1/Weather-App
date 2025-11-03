@@ -1,0 +1,29 @@
+.main {
+    display: flex;
+    flex-direction: column;
+    padding: 16px;
+    margin: 8px;
+    align-items: center;
+    box-sizing: border-box;
+    justify-content: center;
+}
+.show-data {
+    list-style-type: none;
+    padding-top: 16px;
+    font-weight: 800;
+}
+#search-input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    font-size: 16px;
+}
+.btn {
+    width: 50%;
+    padding: 8px 16px;
+    background-color: #BBC863;
+    font-weight: 800;
+    font-size: 16px;
+    border-radius: 0;
+    color: black;
+}
